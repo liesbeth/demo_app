@@ -8,8 +8,8 @@ gem 'rails', '3.0.3'
 ## tutboek blz. 19
 ## gem 'sqlite3-ruby', :require => 'sqlite3'
 ## dit nog niet vanwege blz. 37
-## gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3', :group => :development
-gem 'sqlite3-ruby', '1.2.5', :group => :development
+gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3', :group => :development
+##gem 'sqlite3-ruby', '1.2.5', :group => :development
 
 # Use unicorn as the web server
 # gem 'unicorn'
